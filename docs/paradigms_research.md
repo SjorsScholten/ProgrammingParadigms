@@ -1,15 +1,17 @@
 # Programming Paradigms
 
 ## Content
-1. ...
-1. ...
+1. [First Glance](#first-glance)
+    1. [Discuss the case](#discuss-the-case)
+    1. [identify the questions](#brainstorm)
+1. [Research](#research)
 
 
 # First Glance
 
 ## Discuss the case
 
-For me a Programming Paradigm is a specific notation pattern to structure a program. In Object Oriented Design (OOD), the developer will make a model of a real life example using Objects. In Data Oriented Design (DOD), the developer will take a data first approach and will work with Data Tables. There is no such thing as Objects in DOD, so you often see that polymorphism is not necessary.
+For me a Programming Paradigm is a specific notation pattern to structure a program. In Object-Oriented Design (OOD), the developer will make a model of a real life example using Objects. In Data Oriented Design (DOD), the developer will take a data first approach and will work with Data Tables. There is no such thing as Objects in DOD, so you often see that polymorphism is not necessary.
 
 </br>
 
@@ -26,13 +28,13 @@ For me a Programming Paradigm is a specific notation pattern to structure a prog
 ## Brainstorm
 
 **What are Programming Paradigms?** </br>
-a specific notation pattern to structure a program.
+A specific notation pattern to structure a program.
 
 </br>
 
 **What Programming Paradigms are out there?** </br>
-Sofar I have heard of the following paradigms:
-- Object Oriented
+Sofar, I have heard of the following paradigms:
+- Object-Oriented
 - Data Oriented
 - Functional
 - Procedural
@@ -40,7 +42,7 @@ Sofar I have heard of the following paradigms:
 </br>
 
 **What are the benefits of each paradigm?**
-- *Object Oriented* is one of the most used paradigms and the first paradigm you will mostly learn.
+- *Object-Oriented* is one of the most used paradigms and the first paradigm you will mostly learn.
 - *Data Oriented* is really fast with processing lots of (similar) data because it is tightly packed in memory.
 - *Functional* is one of the easier to test since every function is responsible for one thing.
 
@@ -69,7 +71,7 @@ https://levelup.gitconnected.com/functional-object-oriented-procedural-programmi
 
 ### Procedural Programming
 
-Procedural programming is a paradigm based on procedures. a procedure is a series of computational steps to be carried out. Procedural programming uses a linear or top-down approach.
+Procedural programming is a paradigm based on procedures. A procedure is a series of computational steps to be carried out. Procedural programming uses a linear or top-down approach.
 
 ![Example Procedural](https://miro.medium.com/max/760/1*0Wf_gVG07U_hLWRKZaGR9g.png)
 
@@ -77,7 +79,7 @@ https://www.youtube.com/watch?v=eEBOvqMfPoI
 
 </br>
 
-### Object Oriented Programming
+### Object-Oriented Programming
 
 Ob
 

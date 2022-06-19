@@ -81,7 +81,7 @@ https://www.youtube.com/watch?v=eEBOvqMfPoI
 
 ### Object-Oriented Programming
 
-Ob
+Object-oriented programming takes a real life example and places it in code. The paradigm uses objects with data and functions that can be passed around. 
 
 ![Example OO](https://miro.medium.com/max/538/1*QvNPMRYJ6we3fffXsVvJMw.png)
 
@@ -101,6 +101,8 @@ https://medium.com/swlh/doing-it-the-functional-way-in-c-5c392bbdd46a
 
 ### Data Oriented Programming
 
-### What are the benefits of each Paradigm?
+Data oriented programming is about taking a data first approach. The paradigm takes in account how the data is laid in memory and how the processor processes the data.
 
-### When would you use a certain Paradigm?
+## What are the benefits of each Paradigm?
+
+## When would you use a certain Paradigm?
